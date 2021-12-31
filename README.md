@@ -26,7 +26,7 @@ And of course you will see it all with good design: [SB Admin 2](https://startbo
 ## Don't Forget to 
 - **Change DB credentials:** *php/conn.php*  
 - **Change IG credentials and account to be analyzed:** *php/instagram.php* 
-- **Import to DB and Remove** *iganalyzer.sql* **from the path**
+- **Import** *iganalyzer.sql* **to DB and Remove from the path**
  
 ## Screenshots
 

@@ -23,10 +23,11 @@
 
 And of course you will see it all with good design: [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2) 🧐
 
-## Don't Forget to Change
-- **DB credentials:** *php/conn.php*  
-- **IG credentials and account to be analyzed:** *php/instagram.php* 
-
+## Don't Forget to 
+- **Change DB credentials:** *php/conn.php*  
+- **Change IG credentials and account to be analyzed:** *php/instagram.php* 
+- **Import to DB and Remove** *iganalyzer.sql* **from the path**
+ 
 ## Screenshots
 
 ![index](https://user-images.githubusercontent.com/12685802/147257607-5d6218a0-b407-4967-b404-738f54019041.png)

@@ -20,7 +20,7 @@
 - Analyzes and shows potential stalkers via **data tables**
   - Orders by IG name, username, number of likes on your posts, number of comments on your posts. 
   - Searchs users
-- Just works with small accounts because of Instagram API limit reduced to 200
+- **Just works with small accounts because of Instagram API limit reduced to 200**
 
 And of course you will see it all with good design: [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2) 🧐
 
